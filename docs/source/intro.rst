@@ -1,9 +1,8 @@
 Introduction
 ============
 
-Write an introduction here
+This package provides functions to calculate the area and perimeter of different shapes. You can install it by downloading this repository and calling:
 
-Contributors
-------------
+    pip install -e .
 
-* `Caitlin Bannan (UCI) <https://github.com/bannanc>`_
+in the directory containing setup.py
